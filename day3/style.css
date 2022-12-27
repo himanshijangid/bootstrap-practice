@@ -1,0 +1,46 @@
+.container
+{
+    border: black solid 1px;
+}
+#header
+{
+    background-color: rgb(255, 105, 64);
+
+}
+h1, h2,h3,h4{
+    text-align: center;
+}
+
+
+p{
+    margin: 10px;
+}
+#footer
+{
+    background-color: rgb(255, 105, 64);
+}
+#pink
+{
+    background-color: rgb(247, 123, 187);
+} 
+#green
+{
+    background-color: rgb(134, 233, 84);
+}
+
+#menu
+{
+    background-color: rgb(246, 185, 64);
+   
+    
+   
+}
+#menu ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+#menu ul li{
+
+}
